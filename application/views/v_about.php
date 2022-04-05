@@ -2,8 +2,8 @@
  <h1><?php echo $judul ?></h1>
  <h4>Nama</h4>
  <ul type="disc">
- <li>Nama Depan : Ferdiansyah</li>
- <li>Nama Belakang : 15200208</li>
+ <li>Nama Depan : Ferdi</li>
+ <li>Nama Belakang :Ansyah</li>
  </ul>
  <br>
  <h4>Alamat</h4>

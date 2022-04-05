@@ -5,7 +5,7 @@
  <title>Web Prog II | Merancang Template sederhana dengan 
 codeigniter</title>
 <link rel="stylesheet" type="text/css" 
-href="http://localhost/WP2_Ferdiansyah/assets/css/stylebuku.css">
+href="http://localhost/WP2_FERDIANSYAH/assets/css/stylebuku.css">
 </head>
 <body>
  <div id="wrapper">
